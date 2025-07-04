@@ -30,9 +30,5 @@
 	<array>
 		<string>_fi-iki-tml-flfd._tcp</string>
 	</array>
-	<key>NSMainStoryboardFile</key>
-	<string>Main</string>
-	<key>NSPrincipalClass</key>
-	<string>NSApplication</string>
 </dict>
 </plist>
