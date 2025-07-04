@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0A485EED2E177F4C0077B800 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A485EEC2E177F4C0077B800 /* main.swift */; };
+		0A9490342E1787D000ABEA46 /* Resolutions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9490332E1787CF00ABEA46 /* Resolutions.swift */; };
 		BEB26A432530B2F600744C86 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB26A422530B2F600744C86 /* AppDelegate.swift */; };
 		BEB26A472530B2F700744C86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEB26A462530B2F700744C86 /* Assets.xcassets */; };
 		BEB26A4A2530B2F700744C86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEB26A492530B2F700744C86 /* Preview Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		0A485EEC2E177F4C0077B800 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0A9490332E1787CF00ABEA46 /* Resolutions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Resolutions.swift; sourceTree = "<group>"; };
 		BEB26A3F2530B2F600744C86 /* VGDisplay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VGDisplay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEB26A422530B2F600744C86 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BEB26A462530B2F700744C86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 		BEB26A412530B2F600744C86 /* VGDisplay */ = {
 			isa = PBXGroup;
 			children = (
+				0A9490332E1787CF00ABEA46 /* Resolutions.swift */,
 				0A485EEC2E177F4C0077B800 /* main.swift */,
 				BEB26A7E2531183700744C86 /* VirtualDisplay.h */,
 				BEB26A422530B2F600744C86 /* AppDelegate.swift */,
@@ -153,6 +156,7 @@
 				BEB26A792531163C00744C86 /* VirtualDisplay.m in Sources */,
 				BEB26A432530B2F600744C86 /* AppDelegate.swift in Sources */,
 				0A485EED2E177F4C0077B800 /* main.swift in Sources */,
+				0A9490342E1787D000ABEA46 /* Resolutions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
