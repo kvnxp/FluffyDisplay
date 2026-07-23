@@ -18,6 +18,8 @@ main Mac's display.
 You start FluffyDisplay. It appears as an icon in the menu bar. You
 use it to create a "virtual" monitor on your main Mac.
 
+**New in this version**: Virtual displays are now **persisted** — if you close and reopen the app, your created displays are automatically restored.
+
 In System Preferences -> Displays, arrange the displays so that the
 virtual one is on the side of the built-in display where you put your
 old iMac.
